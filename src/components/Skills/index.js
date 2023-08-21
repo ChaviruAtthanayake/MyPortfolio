@@ -54,6 +54,7 @@ const SkillsContainer = styled.div`
   margin-top: 30px;
   gap: 30px;
   justify-content: center;
+  margin-bottom: 90px;
 `
 
 const Skill = styled.div`
@@ -64,6 +65,7 @@ const Skill = styled.div`
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
   border-radius: 16px;
   padding: 18px 36px;
+  margin-botton: 40px;
   @media (max-width: 768px) {
     max-width: 400px;
     padding: 10px 36px;
