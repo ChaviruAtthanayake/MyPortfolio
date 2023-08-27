@@ -8,7 +8,7 @@ export const Nav = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 1rem;
+    font-size: 1.1rem;
     position: sticky;
     top: 0;
     z-index: 10;
@@ -48,7 +48,7 @@ export const NavItems = styled.ul`
     display: flex;
     align-items: center;
     justify-content:center;
-    gap: 32px;
+    gap: 40px;
     padding: 0 6px;
     list-style: none;
     margin-left: 140px;
